@@ -42,7 +42,7 @@ Both were fixed by patching the C++ source and recompiling.
 
 ### Results
 
-**Indoor room traversal:** 1443 poses captured over ~60 seconds
+**Outdoor vehicle  traversal:** 1443 poses captured over ~4 minutes
 
 ![RealSense Trajectory](results/realsense_trajectory.png)
 
